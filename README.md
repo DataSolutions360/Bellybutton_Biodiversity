@@ -37,7 +37,7 @@ In order to imporove the webpage, I have added some customizations to the code.
 
 - Changed the size of the guage and the bubble chart.
 
-##Resources##
+## Resources ##
 
 - VS Code
 - JavaScript(Inspect function)
