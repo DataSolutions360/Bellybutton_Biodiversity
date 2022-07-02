@@ -4,6 +4,9 @@
 
 The purpose of this challenge was to identify the top 10 bacterial species in the belly buttons of volunteers.  We first made a drop down menu showing the demographic information of the person based on their respective index number.
 
+
+![JUMBOTRON](https://user-images.githubusercontent.com/8845050/177012638-03659daf-c11b-4ea7-90d5-fedc0423ae21.PNG)
+
 ## Deliverable 1 (Bar Chart Creation) ##
 
 The bar chart shows the top 10 bacterial specimens (OTU as they are known for this project) for each person when selecting a volunteer's index number.
