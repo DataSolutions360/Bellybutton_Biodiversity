@@ -28,11 +28,21 @@ The drop down updates all dependent charts simultaneously.
 In order to imporove the webpage, I have added some customizations to the code.
 
 - Added an image to the jumbotron
+  Reference: https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/11/shutterstock_1042543318.jpg
 
 - Downloaded the Custom Font(Extra Bold) as changes the font color(white) to suit aesthetic parameters
+  Reference:  Font(Bakemono-Stereo-Extrabold-trial.ttf) and Color(color:rgb(251, 251, 251), color:rgb(255, 255, 255))
 
 - Changed the background color of the webpage in order to compliment the image of the jumbotron.
 
 - Changed the size of the guage and the bubble chart.
+
+##Resources##
+
+- VS Code
+- JavaScript(Inspect function)
+- HTML
+- Plotly
+- blogfonts.com
 
 
